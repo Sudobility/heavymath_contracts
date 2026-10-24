@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/heavymath_contracts",
-  "version": "0.1.81",
+  "version": "0.1.82",
   "type": "module",
   "main": "dist/unified/src/unified/index.js",
   "types": "dist/unified/src/unified/index.d.ts",
