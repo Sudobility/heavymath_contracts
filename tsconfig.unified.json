@@ -1,9 +1,11 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+    "ignoreDeprecations": "6.0",
     "outDir": "dist/unified",
     "noEmit": false,
-    "jsx": "react"
+    "jsx": "react",
+    "rootDir": "./src"
   },
   "include": [
     "src/unified/**/*",

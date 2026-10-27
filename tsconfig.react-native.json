@@ -1,10 +1,12 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+    "ignoreDeprecations": "6.0",
     "outDir": "dist/react-native",
     "noEmit": false,
     "jsx": "react-native",
-    "lib": ["ES2020"]
+    "lib": ["ES2020"],
+    "rootDir": "./src"
   },
   "include": [
     "src/react-native/**/*",

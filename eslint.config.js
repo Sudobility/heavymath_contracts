@@ -20,6 +20,8 @@ export default [
       '@typescript-eslint': typescriptEslint,
     },
     rules: {
+      'preserve-caught-error': 'off',
+      'no-useless-assignment': 'off',
       '@typescript-eslint/no-explicit-any': 'warn',
       '@typescript-eslint/no-unused-vars': [
         'warn',
@@ -35,6 +37,8 @@ export default [
   {
     files: ['test/**/*.ts'],
     rules: {
+      'preserve-caught-error': 'off',
+      'no-useless-assignment': 'off',
       '@typescript-eslint/no-explicit-any': 'off',
     },
   },
