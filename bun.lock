@@ -19,9 +19,9 @@
         "@solana/spl-token": "~0.4.15",
         "@solana/wallet-adapter-base": "~0.9.28",
         "@solana/web3.js": "~1.99.0",
-        "@sudobility/configs": "^0.0.87",
-        "@sudobility/heavymath_types": "^0.0.42",
-        "@sudobility/types": "^1.10.2",
+        "@sudobility/configs": "^0.0.90",
+        "@sudobility/heavymath_types": "^0.0.43",
+        "@sudobility/types": "^1.11.2",
         "@tanstack/react-query": "~5.104.5",
         "@typechain/ethers-v6": "~0.5.1",
         "@typechain/hardhat": "~9.1.0",
@@ -51,9 +51,9 @@
       "peerDependencies": {
         "@solana/spl-token": ">=0.4.0",
         "@solana/web3.js": ">=1.95.0",
-        "@sudobility/configs": "^0.0.87",
-        "@sudobility/heavymath_types": "^0.0.42",
-        "@sudobility/types": "^1.10.2",
+        "@sudobility/configs": "^0.0.90",
+        "@sudobility/heavymath_types": "^0.0.43",
+        "@sudobility/types": "^1.11.2",
         "@tanstack/react-query": ">=5.0.0",
         "buffer": ">=6.0.0",
         "react": "^18.0.0 || ^19.0.0",
@@ -484,11 +484,11 @@
 
     "@solidity-parser/parser": ["@solidity-parser/parser@0.20.2", "", {}, "sha512-rbu0bzwNvMcwAjH86hiEAcOeRI2EeK8zCkHDrFykh/Al8mvJeFmjy3UrE7GYQjNwOgbGUUtCn5/k8CB8zIu7QA=="],
 
-    "@sudobility/configs": ["@sudobility/configs@0.0.87", "https://npm.pkg.github.com/download/@sudobility/configs/0.0.87/c86b66a6b7ef4bc10e7d1ed1358cce47f4f1b26a", { "peerDependencies": { "@sudobility/types": "^1.10.2" } }, "sha512-kp/q+ElHveHwGPpUwGb6UdJlL4RdM3qAEsjAH0Ubhz25gIUc/a3WFvBsw7HdKCr3qkVk3gc+Sr7Uao0md+qzfQ=="],
+    "@sudobility/configs": ["@sudobility/configs@0.0.90", "https://npm.pkg.github.com/download/@sudobility/configs/0.0.90/2951b820b8e3f1a83c0974c21a34c6c70c53f0e4", { "peerDependencies": { "@sudobility/types": "^1.11.2" } }, "sha512-y9KB50U2uSZNQcYoluCnLZvNwb7dmT18YIgqbI3EDHkTfuM//v+EnibRJU9Q8sWFIQ31ibEpLS9ge9RMB07iaQ=="],
 
-    "@sudobility/heavymath_types": ["@sudobility/heavymath_types@0.0.42", "https://npm.pkg.github.com/download/@sudobility/heavymath_types/0.0.42/aadf7df94b78236c6974a8f0ce1cee270d2e7b8d", { "peerDependencies": { "viem": "^2.0.0" } }, "sha512-1XdWrYqxTH5dlR/yPvrbTTSX50lYzsVOr73xv4o+nXW8uRuqBwyz1xxBBBWeXt+BTOJFS2fuLW0hVYUa0qReYg=="],
+    "@sudobility/heavymath_types": ["@sudobility/heavymath_types@0.0.43", "https://npm.pkg.github.com/download/@sudobility/heavymath_types/0.0.43/482a24e02f7886192066a6cfc525f53301c19dfe", { "peerDependencies": { "viem": "^2.0.0" } }, "sha512-f2/vj3+0Rc1Hg5i4p9nT76eu6UYxQgKLn7pvFBsnxNk1KVo3FVBPUokgp+yWv4Fe6O5BNAmu96xs0UwJGeKbJQ=="],
 
-    "@sudobility/types": ["@sudobility/types@1.10.2", "https://npm.pkg.github.com/download/@sudobility/types/1.10.2/c25e0a0122786dbd23651b15aab022c02c3a5a5e", {}, "sha512-CjMjxeoWE+WMt7HWPWFwcjmjXEbwS9ZPnoa6tN8dBzQSWCaCTZBIfjDDk7xwi+9/2OOxVaorDEHNOZTqSdUxvA=="],
+    "@sudobility/types": ["@sudobility/types@1.11.2", "https://npm.pkg.github.com/download/@sudobility/types/1.11.2/d6d0b1809eaca31ef737646032cc431111b58a49", {}, "sha512-gg+bPtcOGNETDt9oNdjcn7R22EfFWmRxMOhj0ADwulBJ9tJ4NaMaXkrTtkWF+figSDZqmD9a9kodgOHseq8gsQ=="],
 
     "@swc/helpers": ["@swc/helpers@0.5.23", "", { "dependencies": { "tslib": "^2.8.0" } }, "sha512-5lSsMOTXURePglDfvuAQUqkGek9Hg2kksOYay2m0+XR++b2NWYL/4sWyuvVBIs8oKnJaxkdi9whaL/sqN13afw=="],
 
